@@ -4,9 +4,14 @@
 <html lang="ko">
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>알파 홈페이지</title>
 </head>
 <body>
-
+	<header>header입니다.
+	</header>
+	<article>
+	</article>
+	<footer>
+	</footer>
 </body>
 </html>
